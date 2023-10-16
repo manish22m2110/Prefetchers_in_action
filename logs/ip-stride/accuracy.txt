@@ -1,0 +1,5 @@
+Accuracy for 602.gcc_s-1850B_ip_stride.txt: 3.00%
+Accuracy for 603.bwaves_s-1740B_ip_stride.txt: 2.00%
+Accuracy for 619.lbm_s-2677B_ip_stride.txt: 6.00%
+Accuracy for bc-0_ip_stride.txt: 6.00%
+Accuracy for sssp-3_ip_stride.txt: 5.00%

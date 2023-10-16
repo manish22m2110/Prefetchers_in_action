@@ -1,0 +1,6 @@
+No Prefetching IPC values Obtained.
+602.gcc_s-1850B_np.txt: 0.320921
+603.bwaves_s-1740B_np.txt: 0.352702
+619.lbm_s-2677B_np.txt: 0.212169
+bc-0_np.txt: 0.137012
+sssp-3_np.txt: 0.288761

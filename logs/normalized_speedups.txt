@@ -1,0 +1,6 @@
+Normalized IPC values and their geometric means:
+619.lbm_s-2677B_ip_stride.txt: .2107082115
+603.bwaves_s-1740B_ip_stride.txt: .3491960118
+bc-0_ip_stride.txt: .1314997570
+602.gcc_s-1850B_ip_stride.txt: .3101251306
+sssp-3_ip_stride.txt: .2710464447

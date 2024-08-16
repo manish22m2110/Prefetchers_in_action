@@ -23,6 +23,17 @@ $ bin/champsim --warmup_instructions 200000000 --simulation_instructions 5000000
 ```
 
 The number of warmup and simulation instructions given will be the number of instructions retired. Note that the statistics printed at the end of the simulation include only the simulation phase.
+## Project Overview
+
+This section details the implementation of advanced cache performance optimization techniques using ChampSim as part of the CS 683: Advanced Computer Architecture course under the guidance of Prof. Biswabandan Panda.
+
+### Techniques Implemented
+
+- **IP-Stride Prefetcher:** Implemented an IP-stride prefetcher to detect memory access patterns, thereby improving cache hits.
+- **Feedback-Directed Stream Prefetcher:** Developed a feedback-directed stream prefetcher that adapts to the workload dynamically.
+- **Adaptive Prefetch Throttling:** Incorporated adaptive prefetch throttling to optimize the balance between aggressive prefetching and cache pollution.
+
+These enhancements were tested extensively within the ChampSim framework, demonstrating significant improvements in cache efficiency over the baseline.
 
 # Add your own branch predictor, data prefetchers, and replacement policy
 **Copy an empty template**
